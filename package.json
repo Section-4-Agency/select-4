@@ -1,0 +1,33 @@
+{
+  "name": "select-4",
+  "version": "1.0.0",
+  "description": "A lightweight Vanilla JavaScript plugin that replaces native select elements with customizable dropdowns. Fork of Nice Select 2.",
+  "main": "./dist/js/select-4.js",
+  "style": "./dist/css/select-4.css",
+  "exports": {
+    ".": "./dist/js/select-4.js",
+    "./dist/*": "./dist/*",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "select",
+    "dropdown",
+    "vanilla"
+  ],
+  "author": "Section 4",
+  "contributors": [
+    "Dung Nguyen (original author of Nice Select 2)"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Section-4-Agency/select-4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Section-4-Agency/select-4/issues"
+  },
+  "homepage": "https://github.com/Section-4-Agency/select-4#readme"
+}
